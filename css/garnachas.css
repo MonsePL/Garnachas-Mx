@@ -1,0 +1,42 @@
+
+.colorf{
+  color: #ffffff;
+}
+
+.cuadrado{
+  width: 40%;
+
+  height: 1500px;
+  background:#ec9cdc;
+  margin-left: 30%;
+}
+.borde{
+
+  border: 2px solid white;
+}
+
+.mapa{
+
+  height: 300px;
+}
+
+
+.margenmapa{
+  margin-top: .1%;
+}
+
+.taimg{
+  width: 10%;
+
+}
+
+.ciudad {
+	cursor: pointer;
+}
+
+ .botones{
+   background: #ffffff;
+   color:#2d2b2d;
+   margin-left: 85%;
+
+ }
